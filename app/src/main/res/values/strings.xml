@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TimeS2</string>
+    <string name="welcome">Welcome! FIAP</string>
+    <string name="title">Time S2</string>
+    <string name="label_sesenv">Desenv by lab FIAP</string>
+    <string name="hint_nome">Name</string>
+    <string name="hint_idade">Old</string>
+    <string name="selecione">Select the Time</string>
+    <string name="sao_paulo">Sao Paulo</string>
+    <string name="palmeiras">Palmeiras</string>
+    <string name="santos">Santos</string>
+    <string name="sport">Sport</string>
+    <string name="atletico">Atletico</string>
+    <string name="bt_cadastrar">Register</string>
+    <string name="text_result">Hello, %1$s Congratullations for wiring %2$s</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeS2</string>
+    <string name="atletico">Atletico</string>
+    <string name="bt_cadastrar">Cadastrar</string>
+    <string name="hint_idade">Idade</string>
+    <string name="hint_nome">Nome</string>
+    <string name="label_sesenv">Desenvolvido por lab FIAP</string>
+    <string name="palmeiras">Palmeiras</string>
+    <string name="santos">Santos</string>
+    <string name="sao_paulo">Sao Paulo</string>
+    <string name="selecione">Selecione o time</string>
+    <string name="sport">Sport</string>
+    <string name="text_result">Ola, %1$s parabens por torcer pelo %2$s</string>
+    <string name="title">Time S2</string>
+    <string name="welcome">Bem Vindo! FIAP</string>
+</resources>
